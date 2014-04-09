@@ -3,6 +3,7 @@ Nome: Marvin Contessi
 Classe: 4 inf A
 Data di assegnazione: 17/12/13
 Data di consegna: 07/01/2014
+Caricamento su GitHub: 09/04/2014
 
 Testo:
 Sviluppare in C++ una classe orologio con data con tutte le funzioni necessarie. 
